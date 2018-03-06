@@ -1,0 +1,4 @@
+node_modules/
+notes-node/
+*.txt
+*.log
